@@ -77,6 +77,10 @@ Summary:
 
 </details>
 
+The console log from a single morning run:
+
+![Sample console run](docs/sample-run.png)
+
 ---
 
 ## Design decisions worth noting
