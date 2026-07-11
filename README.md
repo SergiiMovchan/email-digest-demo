@@ -51,6 +51,13 @@ flowchart LR
 
 ## Example output
 
+What the daily digest looks like in Telegram (sample data):
+
+![Sample digest delivered to Telegram](docs/sample-digest.png)
+
+<details>
+<summary>Same output as text</summary>
+
 ```
 📧 orders@example.com
 📅 09.07.2026 | Total: 101 emails
@@ -67,6 +74,8 @@ Summary:
 • Pricing-policy violation (Initech) — fix listed prices
 • Overdue invoice #4471 (Acme) — €1,240, due yesterday
 ```
+
+</details>
 
 ---
 
